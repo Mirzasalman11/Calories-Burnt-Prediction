@@ -61,6 +61,9 @@ There are several ways to improve the model and the project:
 
 -Gather more labeled data for improved accuracy.
 ## References
-Author: Mirza Salman
-Contact: [Your Email Address]
+
+-Author: Mirza Salman
+
+-Contact: [Your Email Address]
+
 Feel free to customize this README to include any additional information you want to provide about the project.
